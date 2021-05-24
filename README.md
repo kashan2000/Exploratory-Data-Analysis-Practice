@@ -1,3 +1,5 @@
-# One-Hot-Encoding
-In this module I have shown how we can perform One Hot Encoding for a category which have multiple variables as performing normal One Hot Encoding for such category will result in Curse of Dimensionality.
-To avoid such problem I have given an alternative meathod which was done in the KDD Cup Orange Challange.
+# Different Feature Engineering meathods 
+In this module I have shown various techniques of Exploratory Data Analysis on different data sets of meathods like:
+1) How to handle Categorical Data
+2) How to handle missing value
+3) How to do different Encoding techniques
